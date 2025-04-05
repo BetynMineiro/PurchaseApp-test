@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/csilva/src/Pessoal/PruchaseApp/PruchaseApp/PruchaseApp.csproj": {}
+    "/Users/csilva/src/BrainWorks/PurchaseApp-test/PruchaseApp/PruchaseApp.csproj": {}
   },
   "projects": {
-    "/Users/csilva/src/Pessoal/PruchaseApp/PruchaseApp/PruchaseApp.csproj": {
+    "/Users/csilva/src/BrainWorks/PurchaseApp-test/PruchaseApp/PruchaseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/csilva/src/Pessoal/PruchaseApp/PruchaseApp/PruchaseApp.csproj",
+        "projectUniqueName": "/Users/csilva/src/BrainWorks/PurchaseApp-test/PruchaseApp/PruchaseApp.csproj",
         "projectName": "PruchaseApp",
-        "projectPath": "/Users/csilva/src/Pessoal/PruchaseApp/PruchaseApp/PruchaseApp.csproj",
+        "projectPath": "/Users/csilva/src/BrainWorks/PurchaseApp-test/PruchaseApp/PruchaseApp.csproj",
         "packagesPath": "/Users/csilva/.nuget/packages/",
-        "outputPath": "/Users/csilva/src/Pessoal/PruchaseApp/PruchaseApp/obj/",
+        "outputPath": "/Users/csilva/src/BrainWorks/PurchaseApp-test/PruchaseApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/csilva/.nuget/NuGet/NuGet.Config"
